@@ -13,7 +13,7 @@
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDYKURNIIA&theme=radical" height="150"/>
 </div>
-
+![Snake animation](https://github.com/SANDYKURNIIA/SANDYKURNIIA/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🚀 Tech Stack
