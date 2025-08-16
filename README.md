@@ -1,7 +1,5 @@
 # Hi there, I'm Sandy Kurnia Ramadhan! 👋
 
-An innovative IT Support & Web Developer&Mobile Developer crafting digital  
-
 [![Website](https://img.shields.io/badge/Website-YourSite-blue)](https://sandykurniia.github.io/Portfolio/)
 
 ---
