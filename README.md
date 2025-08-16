@@ -1,6 +1,6 @@
 # Hi there, I'm Sandy Kurnia Ramadhan! 👋
 
-[![Website](https://img.shields.io/badge/Website-YourSite-blue)](https://sandykurniia.github.io/Portfolio/)
+[![Website](https://img.shields.io/badge/Website-sandykurniia.github.io/Portfolio-blue)](https://sandykurniia.github.io/Portfolio/)
 
 ---
 
